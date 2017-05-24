@@ -1,7 +1,7 @@
 # Documentation
 
 ## Server Configuration
-1. [Installation](../docs/GettingStarted/Installation.html)
+1. [Installation](./docs/GettingStarted/Installation.html)
 
 ## User Documentation
 1. Creating your account

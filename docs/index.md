@@ -17,3 +17,6 @@
 ## Group Configuration
 1. Places
 2. Rooms
+
+## Legal
+1. [Terms and Conditions](./license/terms.md)

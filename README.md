@@ -16,7 +16,7 @@ This is (or will be when completed) a fully-fledged chat server with the followi
 5. BBCode and Markdown support for chat formatting, static page creation, and more
 
 ## How to Contribute
-If you would like to make a suggestion, feature request, or report a bug, please create an issue with details about your idea or how to replicate the bug, respectively. Discussion of particular ideas should happen in the [Discord channel](https://discord.gg/PGCpM4q) or in the suggestion comments.
+If you would like to make a suggestion, feature request, or report a bug, please create an issue with details about your idea or how to replicate the bug, respectively. Discussion of particular ideas should happen in the [Discord server](https://discord.gg/PGCpM4q) or in the suggestion comments.
 
 ### Recommended suggestion format:
 Set the title to a concise yet accurate description of the idea.

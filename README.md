@@ -44,10 +44,5 @@ Home | Chat-based options such as @mentions, text formatting, static pages (home
 
 
 ### To-do list
-
-- [ ] | Mentions
-- [ ] | Ephemeral Rooms
-- [ ] | Houses
-- [x] | Controller Aliasing
-- [ ] | Site Themes
+See [projects](https://github.com/LuzFaltex/Upsilon/projects)
 

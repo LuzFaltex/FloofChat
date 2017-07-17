@@ -35,7 +35,7 @@ Controllers can be renamed in the ACP, but suggestions should refer to the defau
 
 It should be noted that the Home controller does not show up in the path. The path is rewritten to exclude it.
 ```diff
-- https://www.examle.com/Home/About
+- https://www.example.com/Home/About
 + https://www.example.com/About
 ```
 

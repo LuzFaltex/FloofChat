@@ -34,9 +34,10 @@ Controllers are separated zones in the web page and show up after the `/`. For e
 Controllers can be renamed in the ACP, but suggestions should refer to the default controller names. This process is called Controller Aliasing. 
 
 It should be noted that the Home controller does not show up in the path.
-
+```
 Old: `https://www.examle.com/Home/About`
 New: `https://www.example.com/About`
+```
 
 If you would like to optionally see the Home controller, add a suggestion.
 

@@ -3,7 +3,7 @@ A proprietary chat server, &copy; 2017 LuzFaltex
 
 
 ## Purpose
-Upsilon (formerly FloofChat) is a proprietary, closed source chat server. It built in Visual Studio and is designed to be run from a web server using IIS or Apache.
+Upsilon (formerly FloofChat) is a proprietary, open source chat server. It built in Python and is designed to be run from a web server using IIS or Apache.
 
 ## Features
 This is (or will be when completed) a fully-fledged chat server with the following:

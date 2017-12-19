@@ -1,5 +1,5 @@
 # Terms and Conditions
-## This document is considered a WORK-IN-PROGRESS and are not legally binding
+## This document is a draft and is not legally binding
 
 ## 1. Provider
 ### Provider
